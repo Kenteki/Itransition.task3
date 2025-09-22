@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3task", "3task.csproj", "{49F04A54-310C-4E33-AD21-EED28D809BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F04A54-310C-4E33-AD21-EED28D809BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F04A54-310C-4E33-AD21-EED28D809BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F04A54-310C-4E33-AD21-EED28D809BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F04A54-310C-4E33-AD21-EED28D809BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0773E1-18CA-4ADB-B690-339A5103EC32}
+	EndGlobalSection
+EndGlobal
